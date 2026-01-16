@@ -99,5 +99,5 @@ La información presentada en este repositorio ha sido recopilada y verificada a
 * **IEEE (Institute of Electrical and Electronics Engineers)**
 * **TWAIN Working Group** 
 * **Especificaciones de Fabricantes** 
-*   
+   
 **Creado por Antonio Montaño Herrera**
