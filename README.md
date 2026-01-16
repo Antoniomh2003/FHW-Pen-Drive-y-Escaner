@@ -2,6 +2,8 @@
 
 ## 💾 I. El Pen Drive (Unidad de Almacenamiento Flash)
 
+<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/64e16606-dd18-4193-ac33-0963c202e08a" />
+
 ### 1. Definición Técnica
 Un **Pen Drive** es un dispositivo de almacenamiento masivo que utiliza **memoria flash tipo NAND** para retener datos. A diferencia de los discos duros mecánicos (HDD), no posee partes móviles, lo que lo clasifica como un dispositivo de **estado sólido (SSD)** en miniatura.
 
