@@ -95,10 +95,9 @@ Tras analizar ambos dispositivos, se pueden extraer las siguientes conclusiones:
 
 La información presentada en este repositorio ha sido recopilada y verificada a través de las siguientes fuentes técnicas:
 
-* **USB Implementers Forum (USB-IF):** Especificaciones oficiales de los estándares USB 2.0, 3.0 y 4.0. [usb.org](https://www.usb.org)
-* **IEEE (Institute of Electrical and Electronics Engineers):** Documentación sobre protocolos de comunicación para periféricos de imagen y sensores CCD/CIS.
-* **TWAIN Working Group:** Estándares de interfaz de software para la comunicación entre aplicaciones y dispositivos de imagen (escáneres).
-* **Especificaciones de Fabricantes:** Manuales técnicos de hardware de referencia (HP, Epson para escáneres; SanDisk y Kingston para arquitectura flash).
-* **Tecnología NAND Flash:** White papers de Samsung Semiconductor sobre el funcionamiento de celdas de memoria de estado sólido.
-  
+* **USB Implementers Forum (USB-IF):**
+* **IEEE (Institute of Electrical and Electronics Engineers):**
+* **TWAIN Working Group:** 
+* **Especificaciones de Fabricantes:** 
+*   
 **Creado por Antonio Montaño Herrera**
