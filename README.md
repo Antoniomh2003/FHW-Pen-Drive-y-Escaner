@@ -72,6 +72,26 @@ La combinación de ambos dispositivos crea un ciclo de gestión documental efici
 
 ---
 
+## 🎯 III. Conclusiones
+
+Tras analizar ambos dispositivos, se pueden extraer las siguientes conclusiones:
+
+1.  **Sinergia Digital:** El escáner y el pen drive forman un ecosistema cerrado de "captura y transporte". Mientras uno digitaliza la realidad, el otro la hace móvil y accesible fuera de la red.
+2.  **Obsolescencia del Papel:** La evolución de los escáneres con tecnología **OCR** ha permitido que las empresas migren a oficinas "sin papel", mejorando la eficiencia y la ecología.
+3.  **Fiabilidad:** La transición de soportes ópticos (CD/DVD) a memorias flash (Pen Drives) ha aumentado drásticamente la durabilidad de la información almacenada frente a daños físicos.
+4.  **Seguridad:** En la era de la nube, el uso combinado de estos periféricos sigue siendo la forma más segura de transferir información confidencial en entornos "Air-gapped" (sin conexión a internet) para evitar ciberataques.
+
+---
+
+## 📚 Fuentes y Referencias
+
+La información presentada en este repositorio ha sido recopilada y verificada a través de las siguientes fuentes técnicas:
+
+* **USB Implementers Forum (USB-IF):** Especificaciones oficiales de los estándares USB 2.0, 3.0 y 4.0. [usb.org](https://www.usb.org)
+* **IEEE (Institute of Electrical and Electronics Engineers):** Documentación sobre protocolos de comunicación para periféricos de imagen y sensores CCD/CIS.
+* **TWAIN Working Group:** Estándares de interfaz de software para la comunicación entre aplicaciones y dispositivos de imagen (escáneres).
+* **Especificaciones de Fabricantes:** Manuales técnicos de hardware de referencia (HP, Epson para escáneres; SanDisk y Kingston para arquitectura flash).
+* **Tecnología NAND Flash:** White papers de Samsung Semiconductor sobre el funcionamiento de celdas de memoria de estado sólido.
 ## 🛠️ Buenas Prácticas y Mantenimiento
 
 * **Para el Pen Drive:** Siempre usar la opción "Expulsar de forma segura" para evitar la corrupción de la tabla de archivos (FAT32/NTFS).
