@@ -95,9 +95,9 @@ Tras analizar ambos dispositivos, se pueden extraer las siguientes conclusiones:
 
 La información presentada en este repositorio ha sido recopilada y verificada a través de las siguientes fuentes técnicas:
 
-* **USB Implementers Forum (USB-IF):**
-* **IEEE (Institute of Electrical and Electronics Engineers):**
-* **TWAIN Working Group:** 
-* **Especificaciones de Fabricantes:** 
+* **USB Implementers Forum (USB-IF)**
+* **IEEE (Institute of Electrical and Electronics Engineers)**
+* **TWAIN Working Group** 
+* **Especificaciones de Fabricantes** 
 *   
 **Creado por Antonio Montaño Herrera**
