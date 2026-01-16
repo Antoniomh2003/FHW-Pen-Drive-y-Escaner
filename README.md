@@ -33,6 +33,9 @@ Utiliza el estándar **USB (Universal Serial Bus)** para comunicarse con otros s
 
 ## 📑 II. El Escáner (Digitalizador de Imágenes)
 
+<img width="500" height="271" alt="image" src="https://github.com/user-attachments/assets/dbb7fd02-2719-4b7f-be92-9161aa0d5d1c" />
+
+
 ### 1. Definición Técnica
 El **Escáner** es un periférico de entrada que utiliza la **optoelectrónica** para convertir información analógica (papel, fotografías, objetos 3D) en un mapa de bits digital. Este proceso se basa en la captura de la luz reflejada mediante sensores fotosensibles.
 
