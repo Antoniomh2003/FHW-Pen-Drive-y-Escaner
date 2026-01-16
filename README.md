@@ -72,6 +72,14 @@ La combinación de ambos dispositivos crea un ciclo de gestión documental efici
 
 ---
 
+
+## 🛠️ Buenas Prácticas y Mantenimiento
+
+* **Para el Pen Drive:** Siempre usar la opción "Expulsar de forma segura" para evitar la corrupción de la tabla de archivos (FAT32/NTFS).
+* **Para el Escáner:** Limpiar el cristal con paños de microfibra y evitar productos abrasivos que puedan rayar la superficie, lo que causaría líneas permanentes en los escaneos.
+
+---
+
 ## 🎯 III. Conclusiones
 
 Tras analizar ambos dispositivos, se pueden extraer las siguientes conclusiones:
@@ -92,10 +100,5 @@ La información presentada en este repositorio ha sido recopilada y verificada a
 * **TWAIN Working Group:** Estándares de interfaz de software para la comunicación entre aplicaciones y dispositivos de imagen (escáneres).
 * **Especificaciones de Fabricantes:** Manuales técnicos de hardware de referencia (HP, Epson para escáneres; SanDisk y Kingston para arquitectura flash).
 * **Tecnología NAND Flash:** White papers de Samsung Semiconductor sobre el funcionamiento de celdas de memoria de estado sólido.
-## 🛠️ Buenas Prácticas y Mantenimiento
-
-* **Para el Pen Drive:** Siempre usar la opción "Expulsar de forma segura" para evitar la corrupción de la tabla de archivos (FAT32/NTFS).
-* **Para el Escáner:** Limpiar el cristal con paños de microfibra y evitar productos abrasivos que puedan rayar la superficie, lo que causaría líneas permanentes en los escaneos.
-
----
+  
 **Creado por Antonio Montaño Herrera**
