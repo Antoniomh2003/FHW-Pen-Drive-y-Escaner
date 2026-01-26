@@ -29,6 +29,54 @@ Utiliza el estándar **USB (Universal Serial Bus)** para comunicarse con otros s
 * **Encriptación de Datos:** Uso de unidades con cifrado por hardware (AES-256) para seguridad bancaria o gubernamental.
 * **ReadyBoost:** Uso de la memoria flash para ayudar a la memoria RAM en sistemas antiguos.
 
+# 🛠️ Dispositivos BadUSB (Keystroke Injection)
+
+Guía rápida sobre herramientas de hardware hacking para inyección de pulsaciones de teclas.
+
+---
+
+## 1. ¿Qué es un BadUSB?
+A diferencia de un pendrive normal, un **BadUSB** es un dispositivo que se anuncia ante el sistema operativo como un **teclado (HID)**. Debido a que las computadoras confían intrínsecamente en los teclados, el dispositivo puede "teclear" comandos maliciosos a una velocidad increíble.
+
+> [!CAUTION]
+> **Diferencia Crítica:** No confundir con **Docker**. Docker es para contenedores de software; BadUSB es hardware para acceso físico inicial.
+
+---
+
+## 2. Tipos de Hardware Comunes
+
+| Dispositivo | Descripción | Nivel de Precio |
+| :--- | :--- | :--- |
+| **USB Rubber Ducky** | El estándar de Hak5. Usa MicroSD y Ducky Script. | $$$ |
+| **Digispark (ATtiny85)** | Microcontrolador económico programable con Arduino IDE. | $ |
+| **Flipper Zero** | Herramienta multiusos con función BadUSB integrada. | $$$$ |
+| **Raspberry Pi Pico** | Muy potente, emula teclado/ratón con CircuitPython. | $$ |
+
+
+
+---
+
+## 3. Mecanismo de Funcionamiento
+
+1. **Identificación:** El PC lo reconoce como un dispositivo de interfaz humana (HID).
+2. **Payload (Carga útil):** El script con instrucciones predefinidas.
+3. **Ejecución:** Al conectarse, el USB "escribe" el script automáticamente saltándose restricciones visuales por su velocidad.
+
+---
+
+## 4. Ejemplo de Script (Ducky Script 1.0)
+
+Este script abre el Bloc de notas en Windows y escribe un mensaje:
+
+```text
+DELAY 1000
+GUI r
+DELAY 200
+STRING notepad.exe
+ENTER
+DELAY 500
+STRING Hola, esto es una prueba de concepto de BadUSB.
+ENTER
 ---
 
 ## 📑 II. El Escáner (Digitalizador de Imágenes)
