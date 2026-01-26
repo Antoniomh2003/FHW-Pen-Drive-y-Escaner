@@ -64,20 +64,6 @@ A diferencia de un pendrive normal, un **BadUSB** es un dispositivo que se anunc
 
 ---
 
-## 4. Ejemplo de Script (Ducky Script 1.0)
-
-Este script abre el Bloc de notas en Windows y escribe un mensaje:
-
-```text
-DELAY 1000
-GUI r
-DELAY 200
-STRING notepad.exe
-ENTER
-DELAY 500
-STRING Hola, esto es una prueba de concepto de BadUSB.
-ENTER
----
 
 ## 📑 II. El Escáner (Digitalizador de Imágenes)
 
